@@ -3,3 +3,9 @@ LICENSE.txt
 README.txt
 demos/
 extras/documentation
+/vendor/*
+!/vendor/RabbitQueue
+/data/*
+!/data/migrations
+/.idea
+composer.lock
